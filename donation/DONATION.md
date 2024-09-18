@@ -11,3 +11,4 @@
 - [National Bank](./bank/national_bank.md)
 - [UPI](./bank/upi.md)
 - [Bkash](./bank/mfs.md)
+- [Patreon](./bank/patreon.md)
