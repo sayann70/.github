@@ -12,3 +12,4 @@
 - [UPI](./bank/upi.md)
 - [Bkash](./bank/mfs.md)
 - [Patreon](./bank/patreon.md)
+- [Crypto](./bank/crypto.md)
