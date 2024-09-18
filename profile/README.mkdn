@@ -1,0 +1,3 @@
+<div align="center">
+	<h3>Team Remix Reborn</h3>
+</div>
