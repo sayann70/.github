@@ -49,6 +49,9 @@
 ---
 
 <div align="center">
+  <p style="font-size:1em; font-weight:bold;">
+    This repository is maintained by Tanvir Hasan
+  </p>
   <p style="font-size:0.9em; color:#9E9E9E;">
     © 2024 Team Remix Reborn. All rights reserved.
   </p>
