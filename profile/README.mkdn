@@ -18,6 +18,12 @@
 
 </div>
 
+
+---
+### Team Insights
+- Find out about our team members: [click](../telegram/TeamRemix/info/team.md)
+---
+
 ---
 ### Device List
 - [Mobile](https://github.com/Team-Remix/.github/blob/main/telegram%2FTeamRemix%2Fdevice.md#mobile)
