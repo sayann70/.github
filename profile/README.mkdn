@@ -32,6 +32,11 @@
 ---
 
 ---
+### Donation
+- [Support Us](../donation/DONATION.md)
+---
+
+---
 
 <div align="center">
   <h3 style="color:#FF4500;">Stay Connected on Telegram</h3>
