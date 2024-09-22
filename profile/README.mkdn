@@ -19,6 +19,13 @@
 </div>
 
 ---
+### Device List
+- [Mobile](https://github.com/Team-Remix/.github/blob/main/telegram%2FTeamRemix%2Fdevice.md#mobile)
+- [Laptop](https://github.com/Team-Remix/.github/blob/main/telegram%2FTeamRemix%2Fdevice.md#laptops)
+- [Desktop](https://github.com/Team-Remix/.github/blob/main/telegram%2FTeamRemix%2Fdevice.md#desktop)
+---
+
+---
 
 <div align="center">
   <h3 style="color:#FF4500;">Stay Connected on Telegram</h3>
