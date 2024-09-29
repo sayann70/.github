@@ -18,10 +18,6 @@
     <td><a href="json/ishan.json">View Profile</a></td>
   </tr>
   <tr>
-    <td>Sanket Rohilla</td>
-    <td><a href="json/sanket.json">View Profile</a></td>
-  </tr>
-  <tr>
     <td>Faizan Khan</td>
     <td><a href="json/fazo.json">View Profile</a></td>
   </tr>

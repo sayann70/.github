@@ -7,7 +7,6 @@
 - [RemixVendor](https://t.me/Gsi_index)
 - [TeamRemixScreenShots](https://t.me/TeamRemixScreenShots)
 - [NextOS](https://t.me/RedmiN11Pak)
-- [RedmiNote12xxTeamRemix](https://t.me/TapasUpdatesXTeamRemix)
 
 **Discussion Group:**
 - [TeamRemix](https://t.me/TeamRemix)
@@ -15,6 +14,5 @@
 - [TanvirBuildsSupport](https://t.me/TanvirBuildsSupport)
 - [RemixVendorOfficial](https://t.me/RemixVendorOfficial)
 - [NextOS](https://t.me/RN11PakCommunity)
-- [RedmiNote12xxTeamRemix](https://t.me/TapasUpdates)
 
 **Note:** Links are listed by name, not by seniority, contributions, or any other order.
